@@ -1,1 +1,2 @@
-this is the sample file of git prctise
+this is the sample file of git prctise 
+this 2
